@@ -4,8 +4,8 @@ import React from 'react'
 
 function OurProjects() {
   return (
-    <div id='case-study' className='p-4 bg-[#0E2744] text-white'>
-        <h1 className='text-6xl font-bold mt-5 mb-5 text-white'>OUR PROJECTS/ <span className='text-4xl text-gray-400'>CASE STUDIES</span> <span className='text-sm text-gray-500'>+100 Projects Completed</span></h1>
+    <div id='case-study' className='px-10 py-10 bg-[#0E2744] text-white'>
+        <h1 className='text-6xl font-bold my-10 text-white'>OUR PROJECTS/ <span className='text-4xl text-gray-400'>CASE STUDIES</span> <span className='text-sm text-gray-500'>+100 Projects Completed</span></h1>
         <div className='flex flex-col gap-5'>
             <div className='flex'>
                 <img className='flex-1 w-1/2' src='./one.jpg'/>
@@ -52,8 +52,8 @@ function OurProjects() {
                 </div>
             </div>
         </div>
-        <Link href='/more-projects' className='pt-2 pb-2'>
-            <div className='bg-black border border-black hover:border-white cursor-pointer  p-2 w-fit flex'>
+        <Link href='/more-projects' className='pt-2 pb-2 m-5'>
+            <div className='bg-gray-700 border border-gray-700 hover:border-white cursor-pointer  p-2 w-fit flex'>
                 <p className=''>For More Projects <br/> Click Here</p>
                 <img className='w-[50px] h-[50px]' src='./arrow-more.svg'/>
             </div>

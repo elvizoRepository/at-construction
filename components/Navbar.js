@@ -3,16 +3,16 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div className='flex justify-between p-4'>
+    <div className='flex justify-between p-10'>
         <div className='logo'>
-            <img src='./logo.png' className='w-full' draggable={false}/>
+            <img src='./logo.png' className='w-full ' draggable={false}/>
         </div>
-        <div className='flex flex-col text-lg font-bold'>
-            <Link href='/' className='hover:text-[#C12425] border-b-2 border-[#0E2744]'>HOME</Link>
-            <Link href='/#about' className='hover:text-[#C12425] border-b-2 border-[#0E2744]'>BOUT US</Link>
-            <Link href='/#case-study' className='hover:text-[#C12425] border-b-2 border-[#0E2744]'>CASE STUDIES</Link>
-            <Link href='/#gallery' className='hover:text-[#C12425] border-b-2 border-[#0E2744]'>GALLERY</Link>
-            <Link href='/#contact' className='hover:text-[#C12425] border-b-2 border-[#0E2744]'>CONTACT</Link>
+        <div className='flex flex-col text-black text-lg font-bold'>
+            <Link href='/' className='text-[#C12425]  text-[15px]'>HOME</Link>
+            <Link href='/#about' className='hover:text-[#C12425] text-[15px]'>ABOUT US</Link>
+            <Link href='/#case-study' className='hover:text-[#C12425] text-[15px]'>CASE STUDIES</Link>
+            <Link href='/#gallery' className='hover:text-[#C12425] text-[15px]'>GALLERY</Link>
+            <Link href='/#contact' className='hover:text-[#C12425] text-[15px]'>CONTACT</Link>
         </div>
     </div>
   )
