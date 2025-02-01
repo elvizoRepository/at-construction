@@ -5,7 +5,7 @@ function AboutUs() {
   return (
     <div id='about' className='bg-white text-black mt-5 p-4'>
         <div className='flex items-centerp-2'>
-            <p className='uppercase text-4xl font-bold text-gradient'>Know <br/> More <br/>About Us</p>
+            <p className='uppercase text-3xl font-bold text-gradient'>Know <br/> More <br/>About Us</p>
             <img className='w-[100px] h=[100px]' src='/arrow.svg'/>
         </div>
         <div className='ml-80 mt-10 flex flex-col gap-4'>
@@ -25,7 +25,7 @@ function AboutUs() {
                 <p className='text-sm opacity-70'>AT Construction Works is a trusted name in the construction industry, offering a full spectrum of services, from residential and commercial building projects to renovations and infrastructure development. Our team of skilled professionals brings years of expertise, ensuring every project is executed with the highest standards of quality and safety.</p>
             </div>
             <div className=''>
-                <p className='text-[#0E2744] font-bold text-8xl uppercase border-l-8 border-[#C12425] pl-1'>What We Do</p>
+                <p className='text-[#0E2744] font-bold text-6xl uppercase border-l-8 border-[#C12425] pl-1'>What We Do</p>
                 <div className='flex justify-between p-2'>
                     <div className='w-[500px]'>
                         <img className=' rounded-md' src='./rs.jpg '/>
