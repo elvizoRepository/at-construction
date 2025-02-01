@@ -13,7 +13,7 @@ function AboutUs() {
                 <p className='font-bold text-lg uppercase underline'><span className='text-[#C12425]'>Anthony Gabris</span> – Founder of AT Construction Works</p>
                 <div className='flex gap-2 mt-2'>
                     <img className='w-[200px] rounded-md' src='./founder.jpeg'/>
-                    <p className='text-sm w-[350px] opacity-70'>Anthony Gabris founded AT Construction Works in 2017 with a vision to deliver high-quality, reliable, and innovative construction solutions. With a strong commitment to excellence and craftsmanship, he has built a company that prioritizes durability, efficiency, and client satisfaction in every project.</p>
+                    <p className='text-sm w-[350px] opacity-70 text-justify'>Anthony Gabris founded AT Construction Works in 2017 with a vision to deliver high-quality, reliable, and innovative construction solutions. With a strong commitment to excellence and craftsmanship, he has built a company that prioritizes durability, efficiency, and client satisfaction in every project.</p>
                 </div>
             </div>
             <div>
