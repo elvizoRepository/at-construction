@@ -2,7 +2,7 @@ import React from 'react'
 
 function Gallery() {
   return (
-    <div id='gallery' className='px-10 py-10 bg-[#C12425]'>
+    <div id='gallery' className='px-10 py-10 bg-[#C12425] bg-image2'>
         <h1 className='text-6xl font-bold my-10 text-white'>OUR GALLERY</h1>
 
         <div className="columns-2 md:columns-3 lg:columns-4 gap-4 space-y-4">

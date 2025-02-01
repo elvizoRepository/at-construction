@@ -16,6 +16,13 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.bg-image2{
+  background-image: url('/bg4.png'); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 @layer utilities {
   .text-gradient {
     @apply bg-clip-text text-transparent;

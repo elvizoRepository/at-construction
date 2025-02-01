@@ -6,7 +6,7 @@ function AboutUs() {
     <div id='about' className='bg-white text-black mt-5 px-10 py-20'>
         <div className='flex items-centerp-2'>
             <p className='uppercase text-3xl font-bold text-gradient'>Know <br/> More <br/>About Us</p>
-            <img className='w-[100px] h=[100px]' src='/arrow.svg'/>
+            <img className='w-[50px] h=[50px]' src='/arrow.svg'/>
         </div>
         <div className='ml-80 mt-10 flex flex-col gap-10'>
             <div className=''>
@@ -33,7 +33,7 @@ function AboutUs() {
             </div>
 
             <div className=''>
-                <p className='text-[#0E2744] font-bold text-6xl uppercase border-l-8 border-[#C12425] pl-1'>What We Do</p>
+                <p className='text-[#0E2744] font-bold text-5xl uppercase border-l-8 border-[#C12425] pl-1'>What We Do</p>
                 <div className='flex justify-between p-2'>
                     <div className='w-[500px]'>
                         <img className=' rounded-md' src='./rs.jpg '/>
