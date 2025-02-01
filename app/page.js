@@ -8,7 +8,7 @@ import Contact from "@/components/Contact";
 
 export default function Home() {
   return (
-    <div className="  bg-[#DEDDDC] ">
+    <div className="  bg-gray-100 ">
       <div className="bg-image">
         <Navbar/>
         <Hero/>

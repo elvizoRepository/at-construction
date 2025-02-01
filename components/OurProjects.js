@@ -5,7 +5,7 @@ import React from 'react'
 function OurProjects() {
   return (
     <div id='case-study' className='p-4 bg-[#0E2744] text-white'>
-        <h1 className='text-8xl font-bold mt-5 mb-5 text-white'>OUR PROJECTS/ <span className='text-4xl text-gray-400'>CASE STUDIES</span> <span className='text-sm text-gray-500'>+100 Projects Completed</span></h1>
+        <h1 className='text-6xl font-bold mt-5 mb-5 text-white'>OUR PROJECTS/ <span className='text-4xl text-gray-400'>CASE STUDIES</span> <span className='text-sm text-gray-500'>+100 Projects Completed</span></h1>
         <div className='flex flex-col gap-5'>
             <div className='flex'>
                 <img className='flex-1 w-1/2' src='./one.jpg'/>
