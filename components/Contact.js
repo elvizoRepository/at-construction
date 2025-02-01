@@ -23,7 +23,7 @@ function Contact() {
     }
   return (
     <div id='contact' className='text-black bg-gray-100 px-10 py-10 bg-image'>
-        <h1 className='text-6xl font-bold my-10 text-[#0E2744] uppercase'>Contact US</h1>
+        <h1 className='text-4xl font-bold my-10 text-[#0E2744] uppercase'>Contact US</h1>
         <div className='flex justify-between '>
 
             <div className='bg-[#0E2744] text-white h-fit rounded-md'>
