@@ -18,16 +18,16 @@ function AboutUs() {
             </div>
             <div>
                 <p className='font-bold text-lg uppercase'>AT Construction Works</p>
-                <p className='text-sm opacity-70'>At AT Construction Works, we are more than just builders—we are visionaries shaping the future of construction with excellence, precision, and integrity. With a deep-rooted passion for craftsmanship, we specialize in delivering high-quality construction solutions that stand the test of time.</p>
+                <p className='text-sm opacity-70'>At, <strong>AT Construction Works</strong>, we are more than just builders—we are visionaries shaping the future of construction with excellence, precision, and integrity. With a deep-rooted passion for craftsmanship, we specialize in delivering high-quality construction solutions that stand the test of time.</p>
             </div>
             <div>
                 <p className='font-bold text-lg uppercase '>Who We Are</p>
-                <p className='text-sm opacity-70'>AT Construction Works is a trusted name in the construction industry, offering a full spectrum of services, from residential and commercial building projects to renovations and infrastructure development. Our team of skilled professionals brings years of expertise, ensuring every project is executed with the highest standards of quality and safety.</p>
+                <p className='text-sm opacity-70'><strong>AT Construction Works</strong> is a trusted name in the construction industry, offering a full spectrum of services, from residential and commercial building projects to renovations and infrastructure development. Our team of skilled professionals brings years of expertise, ensuring every project is executed with the highest standards of quality and safety.</p>
             </div>
             <div>
                 <p className='font-bold text-lg uppercase'>Our Mission</p>
                 <p className='text-sm opacity-70'>
-                    At <strong>AT Construction Works</strong>, we are more than just builders—we are visionaries shaping the future of construction with excellence, precision, and integrity. 
+                    At, <strong>AT Construction Works</strong>, we are more than just builders—we are visionaries shaping the future of construction with excellence, precision, and integrity. 
                     With a deep-rooted passion for craftsmanship, we specialize in delivering high-quality construction solutions that stand the test of time.
                 </p>
             </div>
@@ -61,7 +61,7 @@ function AboutUs() {
             </div>
             <div>
                 <p className='font-bold text-lg uppercase'>Our Commitment</p>
-                <p className='text-sm opacity-70'>At AT Construction Works, we believe in building beyond bricks and mortar—we build relationships, trust, and lasting value. Our dedication to innovation, sustainability, and superior craftsmanship ensures that every project we undertake is a testament to our commitment to excellence.Whether you need a new construction, renovation, or a custom-built project, AT Construction Works is your reliable partner in turning ideas into reality. <Link href='/contact' className='text-[#C12425] underline'>Contact us today</Link></p>
+                <p className='text-sm opacity-70'>At, AT Construction Works, we believe in building beyond bricks and mortar—we build relationships, trust, and lasting value. Our dedication to innovation, sustainability, and superior craftsmanship ensures that every project we undertake is a testament to our commitment to excellence.Whether you need a new construction, renovation, or a custom-built project, AT Construction Works is your reliable partner in turning ideas into reality. <Link href='/#contact' className='text-[#C12425] underline'>Contact us today</Link></p>
             </div>
         </div>
     </div>

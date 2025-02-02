@@ -46,7 +46,7 @@ function OurProjects() {
                             <li>- Managing high foot traffic and parking logistics.</li>
                         </ul>
                         <p className='font-bold text-gray-500 underline'>Results:</p>
-                        <p>The commercial complex has become a prime business hub in Yaoundé, attracting multiple tenants and boosting local business activity. The project was completed with zero safety incidents and on-time delivery.</p>
+                        <p>The commercial complex has become a prime business hub in California, attracting multiple tenants and boosting local business activity. The project was completed with zero safety incidents and on-time delivery.</p>
                     </div>
                   
                 </div>
