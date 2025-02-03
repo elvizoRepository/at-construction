@@ -75,7 +75,7 @@ function Contact() {
             Send Email
           </button>
 
-          <Link href='/privacy' className='text-sm underline text-center'>Privacy & Policy</Link>
+          <Link href='/#privacy' className='text-sm underline text-center'>Privacy & Policy</Link>
           <p className='text-center'>© 2025 AT Construction Works. All rights reserved.</p>
         </form>
       </div>
